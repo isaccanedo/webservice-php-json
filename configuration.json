@@ -1,0 +1,8 @@
+{
+  "host":"localhost",
+  "user":"root_user",
+  "password":"root_password",
+  "database":"users"
+}
+
+
